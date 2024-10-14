@@ -34,6 +34,49 @@ Implement the following media queries for responsive design:
 ### Design Guidelines:
 - Adhere to website design best practices, such as using sans-serif fonts for readability, to create an aesthetically pleasing and user-friendly layout.
 
+## Editing Your index.html on GitHub.dev
+
+Follow these steps to edit your `index.html` file and push your changes to GitHub:
+
+1. Go to your GitHub repository and find the `index.html` file.
+2. Click on the **pencil icon** (✏️) to edit the file.
+3. In the "Open with..." dropdown, select **GitHub.dev** to open the file in a new tab or window.
+4. Make the necessary changes to your `index.html` file.
+5. Once you've finished editing, click on the **Source Control** icon from the menu bar on the left side (it looks like a branch).
+6. In the **Source Control** panel, write a commit message describing your changes, and then click on the **Commit and Push** button to save and push your changes to GitHub.
+
+Now your changes will be live and saved to your GitHub repository!
+
+## How to View a GitHub Repo as a Webpage Easily (Using GitHub Pages)
+
+Follow these steps to set up GitHub Pages and view your repository as a webpage:
+
+### 1. **Create a GitHub Repository**
+   - After you have accepted the GitHub Classroom assignment, you will be directed to a new repository created for you.
+   - **Rename the repository** to `<your-username>.github.io` by navigating to the repository’s settings:
+     1. Click on the **Settings** tab of your repository.
+     2. Under **Repository name**, rename the repo to follow this format: `<your-username>.github.io` (replace `<your-username>` with your actual GitHub username).
+     - Example: If your GitHub username is `janedoe`, rename the repository to `janedoe.github.io`.
+     - Click **Rename** to save the changes.
+
+### 2. **Enable GitHub Pages**
+   - In your renamed repository, go to the **Settings** tab.
+   - Scroll down to the **Pages** section in the left sidebar.
+   - Under the **Source** section, choose the `main` branch as the source.
+   - Click **Save**.
+
+### 3. **View Your Webpage**
+   - After a few minutes, GitHub will deploy your site.
+   - You can view it by navigating to:
+     ```
+     https://<your-username>.github.io
+     ```
+   - Example: If your GitHub username is `janedoe`, visit `https://janedoe.github.io`.
+
+### Notes:
+   - GitHub Pages works for static content like HTML, CSS, and JavaScript.
+   - The `index.html` file will serve as the homepage, and any changes you make to this file will automatically update the webpage.
+
 ## Helpful Tips
 - Utilize CSS properties to style your webpage. Refer to resources like [MDN Web Docs](https://developer.mozilla.org/en-US/docs/Web/CSS) or [W3Schools](https://www.w3schools.com/) for property references.
 - Use tools like [Coolors](https://coolors.co/) or [Adobe Color](https://color.adobe.com/) for harmonious color combinations for backgrounds, fonts, and links.
