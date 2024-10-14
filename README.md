@@ -7,30 +7,13 @@ The **HTML/CSS Personal Website** project aims to assess your proficiency in HTM
 
 Follow these steps to set up GitHub Pages and view your repository as a webpage:
 
-### 1. **Create a GitHub Repository**
-   - After you have accepted the GitHub Classroom assignment, you will be directed to a new repository created for you.
-   - **Rename the repository** to `<your-username>.github.io` by navigating to the repository’s settings:
-     1. Click on the **Settings** tab of your repository.
-     2. Under **Repository name**, rename the repo to follow this format: `<your-username>.github.io` (replace `<your-username>` with your actual GitHub username).
-     - Example: If your GitHub username is `janedoe`, rename the repository to `janedoe.github.io`.
-     - Click **Rename** to save the changes.
-
-### 2. Enable GitHub Pages
-- In your renamed repository, go to the **Settings** tab.
-- Scroll down to the **Pages** section in the left sidebar.
-- Under the **Source** section, choose the `main` branch as the source.
-- In the **Build and deployment** section, select **GitHub Pages** as the **Source**.
-- Under **Page build type**, choose **Static**.
-- Click **Save**.
-
 
 ### 3. **View Your Webpage**
-   - After a few minutes, GitHub will deploy your site.
-   - You can view it by navigating to:
+   - You can view your website by navigating to:
      ```
-     https://<your-username>.github.io
+     https://<your-username>.github.io/project-name
      ```
-   - Example: If your GitHub username is `janedoe`, visit `https://janedoe.github.io`.
+   - Example: If your GitHub username is `janedoe`, visit `https://janedoe.github.io/project-name`.
 
 ### Notes:
    - GitHub Pages works for static content like HTML, CSS, and JavaScript.
