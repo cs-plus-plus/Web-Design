@@ -15,11 +15,14 @@ Follow these steps to set up GitHub Pages and view your repository as a webpage:
      - Example: If your GitHub username is `janedoe`, rename the repository to `janedoe.github.io`.
      - Click **Rename** to save the changes.
 
-### 2. **Enable GitHub Pages**
-   - In your renamed repository, go to the **Settings** tab.
-   - Scroll down to the **Pages** section in the left sidebar.
-   - Under the **Source** section, choose the `main` branch as the source.
-   - Click **Save**.
+### 2. Enable GitHub Pages
+- In your renamed repository, go to the **Settings** tab.
+- Scroll down to the **Pages** section in the left sidebar.
+- Under the **Source** section, choose the `main` branch as the source.
+- In the **Build and deployment** section, select **GitHub Pages** as the **Source**.
+- Under **Page build type**, choose **Static**.
+- Click **Save**.
+
 
 ### 3. **View Your Webpage**
    - After a few minutes, GitHub will deploy your site.
